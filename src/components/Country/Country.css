@@ -1,0 +1,15 @@
+.country {
+    border: 2px solid navy;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: blanchedalmond;
+}
+
+.country img {
+    height: 200px;
+    width: 300px;
+}
+
+.btn {
+    border: 2px solid navy;
+}

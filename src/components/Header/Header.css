@@ -1,0 +1,9 @@
+.active {
+    background-color: blanchedalmond;
+    padding: 5px;
+    margin-right: 12px;
+}
+
+nav a {
+    margin-right: 15px;
+}
